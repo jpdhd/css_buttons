@@ -1,1 +1,939 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ov",
+				"overflow-x"
+			],
+			[
+				"tog",
+				"toggle_error_info"
+			],
+			[
+				"fa-",
+				"fa-minus-circle"
+			],
+			[
+				"tras",
+				"transition"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"RES",
+				"RESPONSE_CODES"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"l",
+				"letter-spacing"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"marg-",
+				"margin-left"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"play",
+				"playpause"
+			],
+			[
+				"fon",
+				"font-variant"
+			],
+			[
+				"moril",
+				"morillas-final"
+			],
+			[
+				"te",
+				"textTracks"
+			],
+			[
+				"s",
+				"subtitles"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"top",
+				"topMargin"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"tal",
+				"talkFunction"
+			],
+			[
+				"cur",
+				"currentItemDataID"
+			],
+			[
+				"cue",
+				"currentItemData"
+			],
+			[
+				"c",
+				"current_solution_name"
+			],
+			[
+				"curren",
+				"current_solution_assembly"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ci",
+				"current_solution_assembly"
+			],
+			[
+				"cun",
+				"current_solution_assembly"
+			],
+			[
+				"index",
+				"index_solution_name_exists"
+			],
+			[
+				"solutions",
+				"solutions_group_by_name"
+			],
+			[
+				"current",
+				"current_solution_assembly"
+			],
+			[
+				"solu",
+				"solution_assembly"
+			],
+			[
+				"solution",
+				"solution_image"
+			],
+			[
+				"sol",
+				"solution_assembly"
+			],
+			[
+				"idne",
+				"index_element_group"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"query",
+				"query_details"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"get",
+				"getDifference"
+			],
+			[
+				"sk",
+				"snakePlayer"
+			],
+			[
+				"tim",
+				"timeline_data"
+			],
+			[
+				"time",
+				"time_line"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"nex",
+				"next_el"
+			],
+			[
+				"data",
+				"data-index"
+			],
+			[
+				"wpa",
+				"wrapper_box"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"last",
+				"last_element"
+			],
+			[
+				"fi",
+				"first_el"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"inlien",
+				"inline-block"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"co",
+				"comp1"
+			],
+			[
+				"lara",
+				"laravuelController"
+			],
+			[
+				"samll",
+				"smalldesktop"
+			],
+			[
+				"wp",
+				"wpb_wrapper"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"lin",
+				"line-scroll"
+			],
+			[
+				"ou",
+				"outerWidth"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"info",
+				"informacion"
+			],
+			[
+				"serv",
+				"service"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wp_pos",
+				"wp_postmeta"
+			],
+			[
+				"Joi",
+				"JOIN"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"elem",
+				"element_type"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"paddign",
+				"padding-left"
+			],
+			[
+				"mo",
+				"mobile-menu"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"foo",
+				"footer-section-home"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ne",
+				"nextIndex"
+			],
+			[
+				"input",
+				"input_otro_importe"
+			],
+			[
+				"is_i",
+				"is_iban"
+			],
+			[
+				"you",
+				"your_dni"
+			],
+			[
+				"nie",
+				"nie_nif"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"nit",
+				"nth-child"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"output",
+				"output_data"
+			],
+			[
+				"onli",
+				"online_date"
+			],
+			[
+				"clei",
+				"client_date"
+			],
+			[
+				"clien",
+				"client_date"
+			],
+			[
+				"itner",
+				"internal_date"
+			],
+			[
+				"inter",
+				"internal_date"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"brief",
+				"brief_date"
+			],
+			[
+				"outpu",
+				"output_data"
+			],
+			[
+				"o",
+				"ouput"
+			],
+			[
+				"dee",
+				"dependency_conditions"
+			],
+			[
+				"de",
+				"dependency_conditions"
+			],
+			[
+				"oup",
+				"output_data"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"checked",
+				"checked_value"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"post_",
+				"post_id"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"team",
+				"team_vw"
+			],
+			[
+				"tea",
+				"team_vw"
+			],
+			[
+				"team_wi",
+				"team_width"
+			],
+			[
+				"is",
+				"isSizeMobile"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"felx",
+				"flex-wrap"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ta",
+				"target"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 317,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "index.html"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 170.0,
+		"last_filter": "git push ",
+		"selected_items":
+		[
+			[
+				"git push ",
+				"Git: Push"
+			],
+			[
+				"Git: Psu",
+				"Git: Push Current Branch"
+			],
+			[
+				"Git: ",
+				"Git: Push"
+			],
+			[
+				"Git: Add All",
+				"Git: Add All"
+			],
+			[
+				"git:status",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git ne",
+				"Git: New Branch"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git status",
+			"git satus",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jesus/Desktop/Projects/css_buttons"
+	],
+	"file_history":
+	[
+		"/home/jesus/Desktop/untitled",
+		"/home/jesus/Desktop/dump.sql",
+		"/home/jesus/Desktop/Water-party/water-party.html",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/database/20171229.sql",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/database/dump_20171129.sql",
+		"/tmp/fz3temp-1/wp-config.php",
+		"/home/jesus/Desktop/checkPay_27122017.php",
+		"/home/jesus/.ssh/known_hosts",
+		"/tmp/fz3temp-1/checkPay.php",
+		"/tmp/mozilla_jesus0/modern-trade-copy-5.svg",
+		"/tmp/mozilla_jesus0/tailormade-copy.svg",
+		"/home/jesus/Desktop/checkPay2.php",
+		"/tmp/fz3temp-1/checkPay2.php",
+		"/home/jesus/Desktop/checkPay2_201712020.php",
+		"/home/jesus/Desktop/SVG--LOGO--VALGOSA/logo.svg",
+		"/home/jesus/Desktop/newssletter_projects_morillas/Projects Newsletter.html",
+		"/home/jesus/Desktop/SVG--LOGO--VALGOSA/valgosa-logo.html",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/logo_animation_mobile.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/contact (copia).svg",
+		"/home/jesus/Desktop/SVG--LOGO--VALGOSA/logo_animation.svg",
+		"/home/jesus/Desktop/logo_valgosa_animation.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/logo_animation_mobile).svg",
+		"/home/jesus/Desktop/jardin_logo_opacity.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/contact_white.svg",
+		"/var/www/html/css/styles.css",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/uploads/2017/10/logo_lilac_opacity.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/uploads/2017/10/logo_lilac_opacity-1.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/lilac_arrow.svg",
+		"/tmp/fz3temp-1/app.js",
+		"/tmp/fz3temp-1/index.html",
+		"/tmp/fz3temp-1/index 2.html",
+		"/home/jesus/Desktop/SVG--LOGO--VALGOSA/valgosa-logo.css",
+		"/home/jesus/Desktop/test_button/text_button.html",
+		"/home/jesus/Desktop/test_button/css/main.scss",
+		"/home/jesus/Desktop/Valgosa - Assets/safinter-monocrom-logo-opacity.svg",
+		"/home/jesus/Desktop/text_button.html",
+		"/var/www/html/wallpapers/Static/index.html",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/logo_lilac_opacity.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/logo_opacity.svg",
+		"/home/jesus/Desktop/test.html",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/linkedin.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/logo.svg",
+		"/var/www/html/index.html",
+		"/home/jesus/Desktop/WETRANSFER/marca morillas.svg",
+		"/var/www/html/wallpapers/Static/images/marca_morillas.svg",
+		"/tmp/fz3temp-1/header.php",
+		"/var/www/html/vtt/track_en.vtt",
+		"/var/www/html/js/morillas.js",
+		"/var/www/html/css/styles.scss",
+		"/var/www/html/wallpapers/Static/fonts/font.css",
+		"/var/www/html/js/video.js",
+		"/var/www/html/vid/morillas-final.ogv",
+		"/home/jesus/Desktop/p5/empty-example/index.html",
+		"/home/jesus/Desktop/video subtitulo - morillass/index.html",
+		"/var/www/html/en/index.html",
+		"/var/www/html/css/mouse_indicators.css",
+		"/home/jesus/Desktop/Projects/Morillas2017/index.html",
+		"/home/jesus/Desktop/Projects/Morillas2017/js/morillas.js",
+		"/home/jesus/Desktop/Projects/Morillas2017/css/styles.scss",
+		"/home/jesus/Desktop/fun fun function/OPP2.html",
+		"/home/jesus/Desktop/fun fun function/OOP.html",
+		"/home/jesus/Desktop/fun fun function/Reduce2.html",
+		"/home/jesus/Desktop/fun fun function/Reduce.html",
+		"/home/jesus/Desktop/fun fun function/Map.html",
+		"/home/jesus/Desktop/fun fun function/Filter.html",
+		"/home/jesus/Desktop/video subtitulo - morillass/track_en.vtt",
+		"/home/jesus/Desktop/video subtitulo - morillass/track_es.vtt",
+		"/home/jesus/Desktop/center.html",
+		"/home/jesus/Desktop/test_obj.html",
+		"/home/jesus/Desktop/index.html",
+		"/home/jesus/Desktop/Projects/The Wittmore/laravel/public/scss/main.scss",
+		"/home/jesus/Desktop/Projects/thewittmore/public/scss/main.scss",
+		"/home/jesus/Desktop/Projects/unex_app/template/components/query_nav_options.tpl",
+		"/home/jesus/Desktop/test_flexbox_scroll.html",
+		"/home/jesus/Desktop/malihu-custom-scrollbar-plugin-master/examples/simple_example.html",
+		"/home/jesus/Desktop/Projects/unex/Vagrantfile",
+		"/home/jesus/Desktop/Projects/foundawtion/github/foundawtion/html/wp-content/themes/morillas-theme-wordpress/img/slider-lightbox.html",
+		"/home/jesus/Desktop/slick-1.6.0/slider-lightbox.html",
+		"/home/jesus/Desktop/slick-lightbox/index.html",
+		"/home/jesus/Desktop/Projects/signes/html/wp-content/themes/morillas/functions.php",
+		"/home/jesus/Desktop/Projects/luna/html/wp-content/themes/morillas-child/assets/fonts/font.css",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/views/Solutions.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/router/index.js",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/views/Hello.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/index.html",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/App.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/views/Dashboard.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/components/Pop-up.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/components/Solutions.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/components/Hello.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/components/Dashboard.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/.editorconfig",
+		"/home/jesus/Desktop/Projects/unex-proto-vue/index.html",
+		"/home/jesus/Desktop/Projects/unex-proto-vue/js/main.js",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/unex/src/components/Dashboard.vue",
+		"/home/jesus/Desktop/animated-page-transition-2/projects.html",
+		"/home/jesus/Desktop/animated-page-transition/index.html",
+		"/home/jesus/Desktop/animated-page-transition-2/js/main.js",
+		"/home/jesus/Desktop/animated-page-transition-2/css/style.css",
+		"/home/jesus/Desktop/animated-page-transition-2/contact.html",
+		"/home/jesus/Desktop/animated-page-transition-2/index.html",
+		"/home/jesus/Desktop/Projects/sunstech/git/sunstech/Vagrantfile",
+		"/home/jesus/Desktop/PageLoadingEffects/index8.html",
+		"/home/jesus/Desktop/PageLoadingEffects/index2.html",
+		"/home/jesus/Desktop/PageLoadingEffects/index.html",
+		"/home/jesus/Desktop/PageLoadingEffects/js/svgLoader.js",
+		"/home/jesus/Desktop/Water-party/water-party.css",
+		"/tmp/fz3temp-1/functions.js",
+		"/tmp/fz3temp-1/functions.php",
+		"/home/jesus/Desktop/Projects/foundawtion_withform/foundawtion/html/wp-content/plugins/contact-form-7/includes/submission.php",
+		"/home/jesus/Desktop/Css - Design/align_items.html",
+		"/home/jesus/Desktop/Css - Design/gird_items.html",
+		"/home/jesus/Desktop/sample.js",
+		"/home/jesus/Desktop/Css - Design/magda_grid.html",
+		"/home/jesus/Desktop/magda.html",
+		"/tmp/fz3temp-1/ajax-news.php",
+		"/home/jesus/Desktop/acceptance",
+		"/home/jesus/Desktop/index_landing.html",
+		"/home/jesus/Desktop/Projects/ponteverdresa_group/Vagrantfile",
+		"/home/jesus/Desktop/Projects/Formacio/Formació - Sessió 1 - Javascript/index.html",
+		"/home/jesus/Downloads/main.js",
+		"/home/jesus/Desktop/drawing2.svg",
+		"/tmp/mozilla_jesus0/M.svg",
+		"/tmp/mozilla_jesus0/frase.svg",
+		"/home/jesus/Desktop/A.svg",
+		"/home/jesus/Desktop/animation_sentence.svg",
+		"/tmp/mozilla_jesus0/circular.svg",
+		"/tmp/mozilla_jesus0/abstract-1.svg"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"<current file>",
+			"/var/www/html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"morillas.in",
+			"section.main",
+			"error",
+			"item",
+			").\n",
+			"'; \t",
+			"('');",
+			".toggle_error_info i{\n        padding-left: 10px;\n    }",
+			"toggle_error_info",
+			"payment_de",
+			"input_order",
+			"mc:",
+			"TODAYDATEPATTERN",
+			";\n",
+			"img",
+			"logo",
+			"video source",
+			"mute",
+			">\n",
+			"bienvenido",
+			"lateral",
+			"menu_lang",
+			"en",
+			"menu",
+			"ajax",
+			"862",
+			"964",
+			"798",
+			"mouse",
+			"on_goto_card",
+			"nr",
+			"scrollObj",
+			"scroolObj",
+			"ff5859",
+			"contact",
+			"scroll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"morillasinteractive.local",
+			"morillas.local"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 415.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"welcome",
+				"laravuel/laravel/resources/views/welcome.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
