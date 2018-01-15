@@ -1,0 +1,1214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ov",
+				"overflow-x"
+			],
+			[
+				"tog",
+				"toggle_error_info"
+			],
+			[
+				"fa-",
+				"fa-minus-circle"
+			],
+			[
+				"tras",
+				"transition"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"RES",
+				"RESPONSE_CODES"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"l",
+				"letter-spacing"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"marg-",
+				"margin-left"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"play",
+				"playpause"
+			],
+			[
+				"fon",
+				"font-variant"
+			],
+			[
+				"moril",
+				"morillas-final"
+			],
+			[
+				"te",
+				"textTracks"
+			],
+			[
+				"s",
+				"subtitles"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"top",
+				"topMargin"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"tal",
+				"talkFunction"
+			],
+			[
+				"cur",
+				"currentItemDataID"
+			],
+			[
+				"cue",
+				"currentItemData"
+			],
+			[
+				"c",
+				"current_solution_name"
+			],
+			[
+				"curren",
+				"current_solution_assembly"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ci",
+				"current_solution_assembly"
+			],
+			[
+				"cun",
+				"current_solution_assembly"
+			],
+			[
+				"index",
+				"index_solution_name_exists"
+			],
+			[
+				"solutions",
+				"solutions_group_by_name"
+			],
+			[
+				"current",
+				"current_solution_assembly"
+			],
+			[
+				"solu",
+				"solution_assembly"
+			],
+			[
+				"solution",
+				"solution_image"
+			],
+			[
+				"sol",
+				"solution_assembly"
+			],
+			[
+				"idne",
+				"index_element_group"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"query",
+				"query_details"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"get",
+				"getDifference"
+			],
+			[
+				"sk",
+				"snakePlayer"
+			],
+			[
+				"tim",
+				"timeline_data"
+			],
+			[
+				"time",
+				"time_line"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"nex",
+				"next_el"
+			],
+			[
+				"data",
+				"data-index"
+			],
+			[
+				"wpa",
+				"wrapper_box"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"last",
+				"last_element"
+			],
+			[
+				"fi",
+				"first_el"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"inlien",
+				"inline-block"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"co",
+				"comp1"
+			],
+			[
+				"lara",
+				"laravuelController"
+			],
+			[
+				"samll",
+				"smalldesktop"
+			],
+			[
+				"wp",
+				"wpb_wrapper"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"lin",
+				"line-scroll"
+			],
+			[
+				"ou",
+				"outerWidth"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"info",
+				"informacion"
+			],
+			[
+				"serv",
+				"service"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wp_pos",
+				"wp_postmeta"
+			],
+			[
+				"Joi",
+				"JOIN"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"elem",
+				"element_type"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"paddign",
+				"padding-left"
+			],
+			[
+				"mo",
+				"mobile-menu"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"foo",
+				"footer-section-home"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ne",
+				"nextIndex"
+			],
+			[
+				"input",
+				"input_otro_importe"
+			],
+			[
+				"is_i",
+				"is_iban"
+			],
+			[
+				"you",
+				"your_dni"
+			],
+			[
+				"nie",
+				"nie_nif"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"nit",
+				"nth-child"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"output",
+				"output_data"
+			],
+			[
+				"onli",
+				"online_date"
+			],
+			[
+				"clei",
+				"client_date"
+			],
+			[
+				"clien",
+				"client_date"
+			],
+			[
+				"itner",
+				"internal_date"
+			],
+			[
+				"inter",
+				"internal_date"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"brief",
+				"brief_date"
+			],
+			[
+				"outpu",
+				"output_data"
+			],
+			[
+				"o",
+				"ouput"
+			],
+			[
+				"dee",
+				"dependency_conditions"
+			],
+			[
+				"de",
+				"dependency_conditions"
+			],
+			[
+				"oup",
+				"output_data"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"checked",
+				"checked_value"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"post_",
+				"post_id"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"team",
+				"team_vw"
+			],
+			[
+				"tea",
+				"team_vw"
+			],
+			[
+				"team_wi",
+				"team_width"
+			],
+			[
+				"is",
+				"isSizeMobile"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"felx",
+				"flex-wrap"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ta",
+				"target"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/main.scss",
+			"settings":
+			{
+				"buffer_size": 4286,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "main.scss"
+			}
+		},
+		{
+			"file": "/home/jesus/Desktop/cinco_jotas_slider_spain.html",
+			"settings":
+			{
+				"buffer_size": 22948,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<div class=\"row\">"
+			}
+		},
+		{
+			"file": "/home/jesus/Desktop/Projects/luna/database/dump.sql",
+			"settings":
+			{
+				"buffer_size": 5942358,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "اكتشاف لدينا مجموعة واسعة من ا نتجات ا علبة",
+			"settings":
+			{
+				"buffer_size": 43,
+				"line_ending": "Unix",
+				"name": "اكتشاف لدينا مجموعة واسعة من ا نتجات ا علبة"
+			}
+		},
+		{
+			"file": "/home/jesus/Desktop/Projects/luna/Vagrantfile",
+			"settings":
+			{
+				"buffer_size": 1558,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "@include letterSpacing($1)",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Unix",
+				"name": "@include letterSpacing($1)"
+			}
+		},
+		{
+			"file": "/home/jesus/Desktop/PageTransitions/js/pagetransitions.js",
+			"settings":
+			{
+				"buffer_size": 10427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/jesus/Desktop/Projects/morillas-seo/morillas-seo/classes/MorillasSeoPluginUpdateChecker.php",
+			"settings":
+			{
+				"buffer_size": 9061,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n  \"name\": \"tyrann0us/slick-slider\",\n  \"description\": \"Turn your native WordPress galleries into beautiful fully responsive sliders using the awesome “slick” slider.\",\n  \"version\": \"1.0.0\",\n  \"license\": \"GPL-3.0\",\n  \"type\": \"wordpress-plugin\",\n  \"keywords\": [\n    \"gallery\",\n    \"slider\",\n    \"slick\"\n  ],\n  \"homepage\": \"https://github.com/tyrann0us/slick-slider\",\n  \"authors\": [\n    {\n      \"name\": \"Philipp Bammes\",\n      \"email\": \"pbammes@gmail.com\",\n      \"role\": \"Lead Developer\"\n    }\n  ],\n  \"support\": {\n    \"issues\": \"https://github.com/tyrann0us/slick-slider/issues\"\n  }\n}\n",
+			"file": "/home/jesus/.cache/.fr-VFdCk1/slick-slider/composer.json",
+			"file_size": 587,
+			"file_write_time": 131516141560000000,
+			"settings":
+			{
+				"buffer_size": 583,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 254.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git push ",
+				"Git: Push"
+			],
+			[
+				"Git: Psu",
+				"Git: Push Current Branch"
+			],
+			[
+				"Git: ",
+				"Git: Push"
+			],
+			[
+				"Git: Add All",
+				"Git: Add All"
+			],
+			[
+				"git:status",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git ne",
+				"Git: New Branch"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 425.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git status",
+			"git satus",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jesus/Desktop/Projects/css_buttons",
+		"/home/jesus/Desktop/Projects/css_buttons/css"
+	],
+	"file_history":
+	[
+		"/home/jesus/Desktop/caeciliastd-regular/converted-files/font.css",
+		"/home/jesus/Desktop/caeciliastd-bold/converted-files/font.css",
+		"/tmp/fz3temp-1/wp-config.php",
+		"/home/jesus/Desktop/lineto-circular/converted-files/font.css",
+		"/home/jesus/Desktop/untitled",
+		"/home/jesus/Desktop/dump.sql",
+		"/home/jesus/Desktop/Water-party/water-party.html",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/database/20171229.sql",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/database/dump_20171129.sql",
+		"/home/jesus/Desktop/checkPay_27122017.php",
+		"/home/jesus/.ssh/known_hosts",
+		"/tmp/fz3temp-1/checkPay.php",
+		"/tmp/mozilla_jesus0/modern-trade-copy-5.svg",
+		"/tmp/mozilla_jesus0/tailormade-copy.svg",
+		"/home/jesus/Desktop/checkPay2.php",
+		"/tmp/fz3temp-1/checkPay2.php",
+		"/home/jesus/Desktop/checkPay2_201712020.php",
+		"/home/jesus/Desktop/SVG--LOGO--VALGOSA/logo.svg",
+		"/home/jesus/Desktop/newssletter_projects_morillas/Projects Newsletter.html",
+		"/home/jesus/Desktop/SVG--LOGO--VALGOSA/valgosa-logo.html",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/logo_animation_mobile.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/contact (copia).svg",
+		"/home/jesus/Desktop/SVG--LOGO--VALGOSA/logo_animation.svg",
+		"/home/jesus/Desktop/logo_valgosa_animation.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/logo_animation_mobile).svg",
+		"/home/jesus/Desktop/jardin_logo_opacity.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/contact_white.svg",
+		"/var/www/html/css/styles.css",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/uploads/2017/10/logo_lilac_opacity.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/uploads/2017/10/logo_lilac_opacity-1.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/lilac_arrow.svg",
+		"/tmp/fz3temp-1/app.js",
+		"/tmp/fz3temp-1/index.html",
+		"/tmp/fz3temp-1/index 2.html",
+		"/home/jesus/Desktop/SVG--LOGO--VALGOSA/valgosa-logo.css",
+		"/home/jesus/Desktop/test_button/text_button.html",
+		"/home/jesus/Desktop/test_button/css/main.scss",
+		"/home/jesus/Desktop/Valgosa - Assets/safinter-monocrom-logo-opacity.svg",
+		"/home/jesus/Desktop/text_button.html",
+		"/var/www/html/wallpapers/Static/index.html",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/logo_lilac_opacity.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/logo_opacity.svg",
+		"/home/jesus/Desktop/test.html",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/linkedin.svg",
+		"/home/jesus/Desktop/Projects/valgosa/github/valgosa/html/wp-content/themes/morillas-child/assets/image/logo.svg",
+		"/var/www/html/index.html",
+		"/home/jesus/Desktop/WETRANSFER/marca morillas.svg",
+		"/var/www/html/wallpapers/Static/images/marca_morillas.svg",
+		"/tmp/fz3temp-1/header.php",
+		"/var/www/html/vtt/track_en.vtt",
+		"/var/www/html/js/morillas.js",
+		"/var/www/html/css/styles.scss",
+		"/var/www/html/wallpapers/Static/fonts/font.css",
+		"/var/www/html/js/video.js",
+		"/var/www/html/vid/morillas-final.ogv",
+		"/home/jesus/Desktop/p5/empty-example/index.html",
+		"/home/jesus/Desktop/video subtitulo - morillass/index.html",
+		"/var/www/html/en/index.html",
+		"/var/www/html/css/mouse_indicators.css",
+		"/home/jesus/Desktop/Projects/Morillas2017/index.html",
+		"/home/jesus/Desktop/Projects/Morillas2017/js/morillas.js",
+		"/home/jesus/Desktop/Projects/Morillas2017/css/styles.scss",
+		"/home/jesus/Desktop/fun fun function/OPP2.html",
+		"/home/jesus/Desktop/fun fun function/OOP.html",
+		"/home/jesus/Desktop/fun fun function/Reduce2.html",
+		"/home/jesus/Desktop/fun fun function/Reduce.html",
+		"/home/jesus/Desktop/fun fun function/Map.html",
+		"/home/jesus/Desktop/fun fun function/Filter.html",
+		"/home/jesus/Desktop/video subtitulo - morillass/track_en.vtt",
+		"/home/jesus/Desktop/video subtitulo - morillass/track_es.vtt",
+		"/home/jesus/Desktop/center.html",
+		"/home/jesus/Desktop/test_obj.html",
+		"/home/jesus/Desktop/index.html",
+		"/home/jesus/Desktop/Projects/The Wittmore/laravel/public/scss/main.scss",
+		"/home/jesus/Desktop/Projects/thewittmore/public/scss/main.scss",
+		"/home/jesus/Desktop/Projects/unex_app/template/components/query_nav_options.tpl",
+		"/home/jesus/Desktop/test_flexbox_scroll.html",
+		"/home/jesus/Desktop/malihu-custom-scrollbar-plugin-master/examples/simple_example.html",
+		"/home/jesus/Desktop/Projects/unex/Vagrantfile",
+		"/home/jesus/Desktop/Projects/foundawtion/github/foundawtion/html/wp-content/themes/morillas-theme-wordpress/img/slider-lightbox.html",
+		"/home/jesus/Desktop/slick-1.6.0/slider-lightbox.html",
+		"/home/jesus/Desktop/slick-lightbox/index.html",
+		"/home/jesus/Desktop/Projects/signes/html/wp-content/themes/morillas/functions.php",
+		"/home/jesus/Desktop/Projects/luna/html/wp-content/themes/morillas-child/assets/fonts/font.css",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/views/Solutions.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/router/index.js",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/views/Hello.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/index.html",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/App.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/views/Dashboard.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/components/Pop-up.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/components/Solutions.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/components/Hello.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/src/components/Dashboard.vue",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/.editorconfig",
+		"/home/jesus/Desktop/Projects/unex-proto-vue/index.html",
+		"/home/jesus/Desktop/Projects/unex-proto-vue/js/main.js",
+		"/home/jesus/Desktop/Projects/unex-webpack-vue/unex/src/components/Dashboard.vue",
+		"/home/jesus/Desktop/animated-page-transition-2/projects.html",
+		"/home/jesus/Desktop/animated-page-transition/index.html",
+		"/home/jesus/Desktop/animated-page-transition-2/js/main.js",
+		"/home/jesus/Desktop/animated-page-transition-2/css/style.css",
+		"/home/jesus/Desktop/animated-page-transition-2/contact.html",
+		"/home/jesus/Desktop/animated-page-transition-2/index.html",
+		"/home/jesus/Desktop/Projects/sunstech/git/sunstech/Vagrantfile",
+		"/home/jesus/Desktop/PageLoadingEffects/index8.html",
+		"/home/jesus/Desktop/PageLoadingEffects/index2.html",
+		"/home/jesus/Desktop/PageLoadingEffects/index.html",
+		"/home/jesus/Desktop/PageLoadingEffects/js/svgLoader.js",
+		"/home/jesus/Desktop/Water-party/water-party.css",
+		"/tmp/fz3temp-1/functions.js",
+		"/tmp/fz3temp-1/functions.php",
+		"/home/jesus/Desktop/Projects/foundawtion_withform/foundawtion/html/wp-content/plugins/contact-form-7/includes/submission.php",
+		"/home/jesus/Desktop/Css - Design/align_items.html",
+		"/home/jesus/Desktop/Css - Design/gird_items.html",
+		"/home/jesus/Desktop/sample.js",
+		"/home/jesus/Desktop/Css - Design/magda_grid.html",
+		"/home/jesus/Desktop/magda.html",
+		"/tmp/fz3temp-1/ajax-news.php",
+		"/home/jesus/Desktop/acceptance",
+		"/home/jesus/Desktop/index_landing.html",
+		"/home/jesus/Desktop/Projects/ponteverdresa_group/Vagrantfile",
+		"/home/jesus/Desktop/Projects/Formacio/Formació - Sessió 1 - Javascript/index.html",
+		"/home/jesus/Downloads/main.js",
+		"/home/jesus/Desktop/drawing2.svg",
+		"/tmp/mozilla_jesus0/M.svg",
+		"/tmp/mozilla_jesus0/frase.svg",
+		"/home/jesus/Desktop/A.svg"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"luna.morillas.local",
+			"luna.morillas.in",
+			"IR AL LOS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"luna.morillasinteractive.local",
+			"luna.morillas.local"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2940,
+								2940
+							]
+						],
+						"settings":
+						{
+							"auto_name": "main.scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2914.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/jesus/Desktop/cinco_jotas_slider_spain.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3195,
+								3195
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div class=\"row\">",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1265.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/jesus/Desktop/Projects/luna/database/dump.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5942358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1230755,
+								1230755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13566.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"auto_name": "اكتشاف لدينا مجموعة واسعة من ا نتجات ا علبة",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/jesus/Desktop/Projects/luna/Vagrantfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1558,
+								1558
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"auto_name": "@include letterSpacing($1)",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/jesus/Desktop/PageTransitions/js/pagetransitions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9515,
+								9515
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6384.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/jesus/Desktop/Projects/morillas-seo/morillas-seo/classes/MorillasSeoPluginUpdateChecker.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								705
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/jesus/.cache/.fr-VFdCk1/slick-slider/composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 415.0
+	},
+	"pinned_build_system": "",
+	"project": "css_buttons.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"welcome",
+				"laravuel/laravel/resources/views/welcome.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
